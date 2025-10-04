@@ -11,7 +11,7 @@ The dataset includes customer demographics, product details, transactions (with 
 - **Insights**: Electronics dominate revenue; younger customers (25-34) and urban areas (Lagos) drive sales; high ratings but quality issues noted.
 
 ## Project Screenshot
-![Project Screenshot](omline_retail_analysis.png)  
+![Project Screenshot](online_retail_analysis.png)
 
 
 ## Key Findings
